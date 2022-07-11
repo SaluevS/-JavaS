@@ -1,0 +1,11 @@
+//Переменные
+let nameGame = 'Turok'
+let descriptionGame = ''
+let versionGame = ''
+let theMainCharacter = ''
+let developerGame = ''
+let programmingLanguage = ''
+let versionProgramming = ''
+let locationGame = ''
+let developersWebsite = ''
+let interfaceLanguage = ''
